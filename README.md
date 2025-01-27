@@ -1,6 +1,6 @@
 # About
 
-Badlion 3.0.0 Using Gradle instead of the shit mcp uwu
+Badlion 3.0.0 Using Gradle instead of the mcp
 
 ## Commands
 * Run with random username ```gradle startGame```
@@ -36,7 +36,7 @@ And ready! enjoy badlion client without the launcher.
 
 - run with gradle
 
-Ready, the client is applied. GG you finally skidded it.
+Ready, the client is applied. GG you finally compiled it.
 
 # Important
 Libs from mavencentral:
@@ -45,4 +45,4 @@ Code:
 org.ow2.asm:asm:8.0.1
 net.jpountz.lz4:lz4:1.3.0
 
-*NOW FOLLOW ME OR BAD YOU SKIDDED IT. I WANT SOMETHING IN RETURN ALSO FOLLOW ME!*
+*NOW FOLLOW ME*
